@@ -25,7 +25,7 @@ public class Principal {
                 8. Peso chileno ══>> Dólar
                 9. Salir
                 *******************************
-                Elija una opción válida:☺
+                Elija una opción válida:
                 """;
 
         do {
