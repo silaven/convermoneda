@@ -14,7 +14,7 @@ public class Principal {
                 ║       C O N V E R S O R   D E   M O N E D A S       ║
                 ╚═════════════════════════════════════════════════════╝
                 Bienvenido(a) al conversor de monedas en tiempo real
-                ********************************
+                *******************************
                 1. Dólar ══>> Peso argentino
                 2. Peso argentino ══>> Dólar
                 3. Dólar ══>> Real brasileño
@@ -24,7 +24,7 @@ public class Principal {
                 7. Dólar ══>> Peso chileno
                 8. Peso chileno ══>> Dólar
                 9. Salir
-                ********************************
+                *******************************
                 Elija una opción válida:
                 """;
 
