@@ -21,7 +21,7 @@ El proyecto se desarrolló en la versión de Java 17.0.10, con el entorno de des
   <li>IntelliJ IDEA Community Edition</li>	
   <li>GitHub</li>
   <li>Biblioteca Gson 2.10.1</li>
-  <li>ExchangeRate API</li>
+  <li>"ExchangeRate API"</li>
 </ul>
 
 <h3>•	Autor del proyecto</h3>
