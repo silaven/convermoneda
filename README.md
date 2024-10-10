@@ -1,7 +1,7 @@
 <h1 align=center>Conversor de Moneda</h1>
 <h3>•	Descripción del proyecto</h3>
 Proyecto en desarrollo para el curso Java orientado a objetos dentro de la formación Back End ONE de Alura Latam.
-La aplicación consiste en un conversor de monedas en tiempo real, despliega en consola un menú con ocho opciones para que el usuario seleccione el cambio que desea entre diferentes monedas.
+La aplicación consiste en un conversor de monedas en tiempo real, despliega en consola un menú con ocho opciones para que el usuario seleccione el cambio que desea entre diferentes monedas. A continuación se solicita la cantidad o monto a convertir.
 
 ![Conversor](https://github.com/silaven/convermoneda/assets/87791988/c93ec09c-3a44-4adb-b6a1-51dca407d3d9)
 
@@ -25,4 +25,4 @@ El proyecto se desarrolló en la versión de Java 17.0.10, con el entorno de des
 </ul>
 
 <h3>•	Autor del proyecto</h3>
-María Silvia Avendaño estudiante del curso Java Orientado a Objetos de ALURA Latam, Oracle ONE G6.
+María Silvia Avendaño estudiante del curso Java Orientado a Objetos de ALURA Latam, Oracle ONE G7.
