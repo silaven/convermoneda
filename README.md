@@ -5,8 +5,6 @@ La aplicación consiste en un conversor de monedas en tiempo real, despliega en 
 
 ![Conversor](https://github.com/silaven/convermoneda/assets/87791988/c93ec09c-3a44-4adb-b6a1-51dca407d3d9)
 
-![Conversor2](https://github.com/user-attachments/assets/07b706e3-05d6-4ff6-87e9-dca439c626c3)
-
 <h3>•	Funcionalidades</h3>
 Dependiendo de la opción ingresada la aplicación devuelve el cambio de la cantidad de moneda base que el usuario ingreso al valor de la moneda destino. Se utilizó  la API Exchange Rate, con la funcionalidad de Conversión de pares donde se envía un par de códigos y un monto en la solicitud, así se obtiene el tipo de cambio entre los códigos y la conversión del importe incluido. Adicionalmente, nos entrega la fecha actual y hora en que se realizó la consulta. Aquí se despliega nuevamente el menú para realizar otra conversión o si se prefiere salir digitando la opción “9”. Si el usuario digita una opción inválida el programa le informará y solicitará que vuelva a digitar una opción válida.
 
